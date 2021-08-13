@@ -408,7 +408,7 @@ body {
   }
 }
 .header__fondo {
-  background-image: url(../../../public/assets/fondo.jpg);
+  background-image: url(../assets/fondo.jpg);
   background-position: center;
   background-size: cover;
   object-fit: cover;
